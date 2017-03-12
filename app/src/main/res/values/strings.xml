@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Sunshine</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_settings">Settings</string>
+
+    <string name="hint_search_box">Enter a query to search</string>
+    <string name="hint_query_url">Your search query will be displayed here!</string>
+    <string name="hint_search_result_box">Make a query!</string>
+    <string name="error_network">Network problem, please try again!</string>
 </resources>
